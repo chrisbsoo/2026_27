@@ -11,7 +11,7 @@ Here is the curriculum for the first five weeks.
 | 1 | Python refresher + Matplotlib | Introductory mathematical material |
 | 2 | PyTorch | Linear regression |
 | 3 | Linear regression | Linear classification |
-| 4 | Linear/logistic classification | Neural networks |
+| 4 | Linear classification | Neural networks |
 | 5 | Neural networks 1 | Backpropagation |
 | 7 | Neural networks 2 | PCA and ICA - the stucture of data |
 | 8 | PCA and ICA | Autoencoders of all sorts |
